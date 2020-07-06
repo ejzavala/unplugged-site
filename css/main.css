@@ -590,6 +590,11 @@ input[type=button] {
     justify-content: space-between;
   }
 
+  header nav ul li a {
+
+    padding-right: 33px;
+  }
+
   .header-divider {
     display: none;
   }
